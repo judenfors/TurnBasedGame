@@ -1,8 +1,8 @@
 namespace TurnBasedGame
 {
-    public class Player: Character
+    public class Golum : Enemy
     {
-        public Player(string name, int health, int attackPower)
+        public Golum(string name, int health, int attackPower)
          : base(name, health, attackPower)
         {
             

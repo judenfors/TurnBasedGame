@@ -12,3 +12,17 @@ C:\Users\Admin\Documents\GitHub\TurnBasedGame\obj\Debug\net7.0\refint\TurnBasedG
 C:\Users\Admin\Documents\GitHub\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.pdb
 C:\Users\Admin\Documents\GitHub\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\TurnBasedGame\obj\Debug\net7.0\ref\TurnBasedGame.dll
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\bin\Debug\net7.0\TurnBasedGame.exe
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\bin\Debug\net7.0\TurnBasedGame.deps.json
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\bin\Debug\net7.0\TurnBasedGame.runtimeconfig.json
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\bin\Debug\net7.0\TurnBasedGame.dll
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\bin\Debug\net7.0\TurnBasedGame.pdb
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.AssemblyInfo.cs
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.dll
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\refint\TurnBasedGame.dll
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.pdb
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\TurnBasedGame.genruntimeconfig.cache
+C:\Users\Admin\Documents\programmering\king\C#\TurnBasedGame\obj\Debug\net7.0\ref\TurnBasedGame.dll

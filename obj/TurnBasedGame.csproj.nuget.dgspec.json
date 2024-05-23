@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\TurnBasedGame\\TurnBasedGame.csproj": {}
+    "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TurnBasedGame\\TurnBasedGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\TurnBasedGame\\TurnBasedGame.csproj": {
+    "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TurnBasedGame\\TurnBasedGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\TurnBasedGame\\TurnBasedGame.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TurnBasedGame\\TurnBasedGame.csproj",
         "projectName": "TurnBasedGame",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\TurnBasedGame\\TurnBasedGame.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TurnBasedGame\\TurnBasedGame.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\TurnBasedGame\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TurnBasedGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

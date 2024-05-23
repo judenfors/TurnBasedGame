@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CXwwiXPJ0Iz3UWbTWAAP92BtZhjPdNdFL8Q5YOWe/4cKai/xBoJjnryLZfWF2WayzDzeZS0d63DCe0KO7uYBGw==",
+  "dgSpecHash": "gFwNqjOje1O/vXeB4/f75mBT2MdtQOymg6dxKID5E6cs/uUtsLXV5Bz9ipsOCzUoDdzWOiPOIBx/qw/193XrBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\TurnBasedGame\\TurnBasedGame.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\programmering\\king\\C#\\TurnBasedGame\\TurnBasedGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
